@@ -1,0 +1,11 @@
+# packages
+АСУ_Склад/АСУ_Склад/paskages
+
+# compled output
+АСУ_Склад/АСУ_Склад/ASP.NET/bin
+АСУ_Склад//АСУ_Склад/ASP.NET/obj
+АСУ_Склад/АСУ_Склад/Objects/bin
+АСУ_Склад/АСУ_Склад/Objects/obj
+
+# others
+АСУ_Склад/АСУ_Склад/.vs
